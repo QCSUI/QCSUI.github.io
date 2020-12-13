@@ -6,8 +6,8 @@ permalink: /about/
 # Infomation 
 I am graduate student majoring in mechanical engineering:gear: with a bachelor degree in aerospace engineering:airplane:. 
 With a passion for fixed wing drone, I am devote most of my spare time into the development of an smarter fixed-wing robot.
-<img src="https://raw.githubusercontent.com/QCSUI/QCSUI.github.io/master/images/projects/BWB.svg">
-<img src="https://raw.githubusercontent.com/QCSUI/QCSUI.github.io/master/images/projects/depth_img.png">
+<img src="https://raw.githubusercontent.com/QCSUI/QCSUI.github.io/master/images/projects/BWB.svg" width="20%>
+<img src="https://raw.githubusercontent.com/QCSUI/QCSUI.github.io/master/images/projects/depth_img.png" width="20%>
 
 
 
